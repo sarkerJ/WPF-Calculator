@@ -14,7 +14,7 @@ The application is a simple calculator solution which allows a user to do some b
 
 ##### Calculator View
 
-![Calculator]()
+![Calculator](https://github.com/sarkerJ/WPF-Calculator/blob/main/Images/Calculator%20image.JPG)
 
 ---
 
