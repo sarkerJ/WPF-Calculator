@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4cGVFefdMPoBsdKo2DLr3xXxEe0A8y7KTa7QLs+FaT8ec5CGl1n7r/ov4FGCwl0Z8Q/GxZYZS+KX4vUcNlQBMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saadi\\OneDrive\\Desktop\\Sparta Global\\Mini Projects\\CalculatorProject\\WPF-Calculator\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saadi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saadi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+C:\Users\saadi\source\repos\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\saadi\source\repos\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\saadi\source\repos\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\saadi\source\repos\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\saadi\source\repos\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\saadi\source\repos\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\saadi\source\repos\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\saadi\source\repos\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\saadi\source\repos\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+C:\Users\saadi\OneDrive\Desktop\Sparta Global\Exercises\CalculatorExercise\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\saadi\OneDrive\Desktop\Sparta Global\Exercises\CalculatorExercise\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\saadi\OneDrive\Desktop\Sparta Global\Exercises\CalculatorExercise\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\saadi\OneDrive\Desktop\Sparta Global\Exercises\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\saadi\OneDrive\Desktop\Sparta Global\Exercises\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\saadi\OneDrive\Desktop\Sparta Global\Exercises\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\saadi\OneDrive\Desktop\Sparta Global\Exercises\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\saadi\OneDrive\Desktop\Sparta Global\Exercises\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\saadi\OneDrive\Desktop\Sparta Global\Exercises\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+C:\Users\saadi\OneDrive\Desktop\TestingCalc\CalculatorExercise\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\saadi\OneDrive\Desktop\TestingCalc\CalculatorExercise\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\saadi\OneDrive\Desktop\TestingCalc\CalculatorExercise\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\saadi\OneDrive\Desktop\TestingCalc\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\saadi\OneDrive\Desktop\TestingCalc\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\saadi\OneDrive\Desktop\TestingCalc\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\saadi\OneDrive\Desktop\TestingCalc\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\saadi\OneDrive\Desktop\TestingCalc\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+C:\Users\saadi\OneDrive\Desktop\TestingCalc\CalculatorExercise\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
